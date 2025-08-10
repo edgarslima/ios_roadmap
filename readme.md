@@ -8,7 +8,7 @@
     - [Noções de Objective‑C e Interoperabilidade com Swift](./linguagem/objc_interoperabilidade.md)
 
 #### Links
-[ Medium | The iOS Developer Roadmap in 2024: Navigating the Apple Ecosystem 🔗](https://meetmendapara09.medium.com/the-ios-developer-roadmap-in-2024-navigating-the-apple-ecosystem-34c3b88f1825)
+<a href="https://meetmendapara09.medium.com/the-ios-developer-roadmap-in-2024-navigating-the-apple-ecosystem-34c3b88f1825" target="_blank" rel="noopener noreferrer"> Medium | The iOS Developer Roadmap in 2024: Navigating the Apple Ecosystem 🔗</a>
 
 ## 2. Ambiente e Ferramentas de Desenvolvimento iOS 
 - **Xcode e Ferramentas do Xcode:** Familiarizar-se com o Xcode (IDE oficial da Apple) – criação de projetos, estrutura de arquivos, uso do Interface Builder para montar interfaces visuais, simulador de iPhone/iPad, e ferramentas de depuração (breakpoints, console).  
