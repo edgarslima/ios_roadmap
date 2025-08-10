@@ -2,7 +2,7 @@
 
 
 Swift é uma linguagem moderna desenhada para ser segura por padrão, expressiva no dia a dia e suficientemente performática para cenários de baixa latência. Ao longo deste capítulo, a proposta é construir um entendimento sólido que sirva tanto para escrever o primeiro “Hello, World!” quanto para projetar APIs elegantes, componíveis e seguras sob alta concorrência. Vamos caminhar com progressão didática: iniciar pela sintaxe e pelos tipos que definem a gramática do pensamento em Swift, atravessar opcionais — o mecanismo que eleva segurança a requisito do compilador —, consolidar estruturas, classes e a diferença crucial entre semântica de valor e de referência, dominar protocolos e genéricos como a espinha dorsal de reutilização e polimorfismo, e fechar com closures, gerenciamento de memória com ARC e o modelo moderno de concorrência com async/await e actors. O objetivo é que cada seção reforce a anterior por meio de exemplos reais e exercícios guiados, até que os conceitos “grudem” e virem reflexo.
-
+ 
 
 ## Sintaxe essencial, tipos e controle de fluxo
 
