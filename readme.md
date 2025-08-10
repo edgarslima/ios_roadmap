@@ -2,7 +2,13 @@
 
 ## 1. Linguagem de Programação Swift e Fundamentos 
 - **Swift (Fundamentos e Avançado):** Sintaxe básica, tipos de dados, opcionais, estruturas, classes, protocolos, genéricos, closures e demais recursos modernos da linguagem. Domínio do Swift é essencial, já que é a principal linguagem para desenvolvimento iOS. Inclui gerenciamento de memória com ARC e novas funcionalidades do Swift (como **async/await** para concorrência).  
+    - [Linguagem de Programação Swift e Fundamentos](./linguagem/swift_fundamentos.md)
+
 - **Noções de Objective-C e Interoperabilidade:** Embora Swift seja prioritário, é útil compreender o básico de Objective-C para ler código legado e interoperar com APIs antigas. Saber as diferenças fundamentais entre Swift e Objective-C ajuda a navegar no ecossistema Apple.
+    - [Noções de Objective‑C e Interoperabilidade com Swift](./linguagem/objc_interoperabilidade.md)
+
+#### Links
+[ Medium | The iOS Developer Roadmap in 2024: Navigating the Apple Ecosystem 🔗](https://meetmendapara09.medium.com/the-ios-developer-roadmap-in-2024-navigating-the-apple-ecosystem-34c3b88f1825)
 
 ## 2. Ambiente e Ferramentas de Desenvolvimento iOS 
 - **Xcode e Ferramentas do Xcode:** Familiarizar-se com o Xcode (IDE oficial da Apple) – criação de projetos, estrutura de arquivos, uso do Interface Builder para montar interfaces visuais, simulador de iPhone/iPad, e ferramentas de depuração (breakpoints, console).  
