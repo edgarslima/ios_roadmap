@@ -19,9 +19,16 @@
     - [Ambiente e Ferramentas de Desenvolvimento iOS 🔗](./ambiente/xcode_ferramentas.md)
 
 - **Instruments (Perfilação e Otimização):** Uso do Instruments para detectar leaks de memória, otimizar desempenho e inspecionar a hierarquia de views para depurar interfaces.  
+    - [Instruments (Perfilação e Otimização) no iOS: do insight à correção 🔗](./ambiente/instruments_perfilacao.md)
+
 - **Gerenciamento de Dependências:** Utilização de ferramentas como Swift Package Manager e CocoaPods para adicionar bibliotecas e frameworks externos ao projeto.  
+    - [Gerenciamento de Dependências no iOS: Swift Package Manager e CocoaPods na prática 🔗](./ambiente/gerenciamento_dependencias.md)
+
 - **Controle de Versão (Git):** Domínio do Git e fluxos de versionamento para colaborar em projetos, gerenciar branches e fazer code review.
+    - [Controle de Versão (Git) para iOS em Profundidade 🔗](./ambiente/controle_versao_git_ios.md)
+
 - **Lint e Estilo de Código:** Uso de linters (ex: SwiftLint) para manter estilo de código consistente e aderir às convenções recomendadas pela comunidade Swift/Apple.
+    - [Lint e Estilo de Código no iOS: do consenso à automação que não atrapalha 🔗](./ambiente/lint_estilo_codigo.md)
 
 ## 3. Desenvolvimento de Interface de Usuário com UIKit 
 - **UIKit (Visão Geral e Componentes Básicos):** Conhecimento profundo do *framework* UIKit, responsável pela construção de interfaces clássicas no iOS. Inclui compreensão de `UIView` e subclasses, controles comuns (botões, labels, sliders, etc.), e do ciclo de vida de `UIViewController` (métodos `viewDidLoad`, `viewWillAppear`, etc.).  
