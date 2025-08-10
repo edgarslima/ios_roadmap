@@ -16,8 +16,8 @@
 
 ## 2. Ambiente e Ferramentas de Desenvolvimento iOS 
 - **Xcode e Ferramentas do Xcode:** Familiarizar-se com o Xcode (IDE oficial da Apple) – criação de projetos, estrutura de arquivos, uso do Interface Builder para montar interfaces visuais, simulador de iPhone/iPad, e ferramentas de depuração (breakpoints, console).  
-    - [Ambiente e Ferramentas de Desenvolvimento iOS 🔗](./ambiente/swift_fundamentos.md)
-    
+    - [Ambiente e Ferramentas de Desenvolvimento iOS 🔗](./ambiente/xcode_ferramentas.md)
+
 - **Instruments (Perfilação e Otimização):** Uso do Instruments para detectar leaks de memória, otimizar desempenho e inspecionar a hierarquia de views para depurar interfaces.  
 - **Gerenciamento de Dependências:** Utilização de ferramentas como Swift Package Manager e CocoaPods para adicionar bibliotecas e frameworks externos ao projeto.  
 - **Controle de Versão (Git):** Domínio do Git e fluxos de versionamento para colaborar em projetos, gerenciar branches e fazer code review.
